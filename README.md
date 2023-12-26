@@ -1,3 +1,3 @@
 # KHAI_MLcourse
 
-It is a repository for my practice tasks from university.
+This is a repository for my practice tasks from university.
